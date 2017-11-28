@@ -1,0 +1,12 @@
+h1{
+text-align: center; 
+color: forestgreen;    
+}
+body{
+background-color: antiquewhite;    
+}
+
+.tamañoImagen {
+    height:200px;
+    width:200px; 
+}
