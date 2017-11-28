@@ -1,0 +1,13 @@
+body{
+    color: forestgreen;
+    background-color: floralwhite;
+}
+h1{
+   text-align: center;
+}
+table, th, tr, td{
+    border: 1px solid black;
+}
+img {
+align-content: center;
+}

@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+body{
+    background-image: url(../Images/Fondo.JPG);
+    background-size: contain;
+}
+    .collapsible-body{
+    color: blue;
+
+}
+
+h1{
+text-align: center;
+}

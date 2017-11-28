@@ -1,0 +1,9 @@
+body{
+    background-image: url(../Images/Fondo.JPG);
+    background-size: cover;
+}
+
+.collapsible-body{
+    color: blue;
+
+}
