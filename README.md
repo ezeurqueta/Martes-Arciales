@@ -18,12 +18,12 @@ Alli veremos tecnicas, formas, videos, fotos y lo necesario para tener una base 
 Se puede llamar a esta pagina como una Wikipedia de las Artes Marciales que nos ayudara a entender sobre un Arte Marcial sobre el que tenemos duda o nos da curiosidad.
 Otra funcion es de instruir al estudiante en conceptos que en clase talvez no sean vistos, la historia del arte marcial, significados, traducciones, origenes, etc.
 ## Proyecto Final
-!(fotos/vprincipal1.png)
-!(fotos/vprincipal2.png)
+![alt text](fotos/vprincipal1.png)
+![alt text](fotos/vprincipal2.png)
 ### Aca vemos la ventana principal con cada Continente y pais, la cual nos muestra los paises disponibles para ver su/sus artes maricales.
-!(fotos/muaythai1.png.)
-!(fotos/muaythai2.png.)
-!(fotos/muaythai3.png.)
+![alt text](fotos/muaythai1.png.)
+![alt text](fotos/muaythai2.png.)
+![alt text](fotos/muaythai3.png.)
 ### Aca vemos uno de los diseños de un pais, vemos el nombre del arte marcial y distintos aspectos que son importantes a la hora de conocer sobre el arte marcial.
 * La etica
 * Tecncias
@@ -34,8 +34,8 @@ Otra funcion es de instruir al estudiante en conceptos que en clase talvez no se
 5. Rodillasos
 6. Defensa contra ataques
 * Cinturones
-!(fotos/limalama1.png.)
-!(fotos/limalama2.png.)
+![alt text](fotos/limalama1.png.)
+![alt text](fotos/limalama2.png.)
 ### Este es el segundo diseño de un pais, al ser muy desconocido o secreto, no se encuentra mucha informacion del mismo mas de la que se puede proporcionar por Martes Arciales.
 * Concepto
 * Tecnicas
